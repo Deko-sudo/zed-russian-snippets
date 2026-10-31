@@ -1,0 +1,8 @@
+id = "russian-snippets"
+name = "Russian Snippets"
+version = "0.0.1"
+schema_version = 1
+authors = ["Deko-sudo <deko-sudo@users.noreply.github.com>"]
+description = "Russian text snippets for Zed: emails, meeting notes, and README templates"
+repository = "https://github.com/Deko-sudo/zed-russian-snippets"
+snippets = ["./snippets/snippets.json", "./snippets/markdown.json"]

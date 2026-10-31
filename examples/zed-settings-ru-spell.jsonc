@@ -1,0 +1,11 @@
+// Example Zed settings for Russian spell checking via ltex.
+// Merge into ~/.config/zed/settings.json or .zed/settings.json
+{
+  "lsp": {
+    "ltex": {
+      "settings": {
+        "ltex": { "language": "ru-RU" }
+      }
+    }
+  }
+}
